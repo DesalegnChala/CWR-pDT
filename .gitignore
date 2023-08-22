@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# ignore everything
+*
+# but not R scripts
+!*.R
