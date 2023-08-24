@@ -51,4 +51,4 @@ rsconnect/
 # ignore everything
 *
 # but not R scripts
-# !*.R
+!*.R
